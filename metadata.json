@@ -1,0 +1,7 @@
+{
+  "name": "Ótica Cdo - Cia dos Óculos",
+  "description": "Plataforma profissional de ótica oferecendo as melhores armações, lentes e acessórios com auxílio de IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
